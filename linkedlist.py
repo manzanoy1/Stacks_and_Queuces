@@ -1,6 +1,6 @@
 #Yanira Manzano
 #3/9/2020
-#Stack and Queues Assignment: Linked List
+#Linked List
 
 class ListNode:
     def __init__(self, data=None):
